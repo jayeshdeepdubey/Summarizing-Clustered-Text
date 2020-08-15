@@ -1,0 +1,15 @@
+numpy
+pandas
+sklearn
+glob
+json
+csv
+matplotlib
+pyspark
+findspark
+scipy
+tqdm
+graphframes
+re
+nltk
+wordcloud
